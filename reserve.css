@@ -1,0 +1,58 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:17px;
+    text-align: center;
+    border: 0.2cm solid goldenrod;
+    background-color: antiquewhite;
+}
+.links{
+    background-color:hotpink;
+    width:98%;
+    height: 5%;
+    position:fixed;
+    padding-top: 20px;
+}
+a{
+    padding-left: 40px;
+    padding-right: 40px;
+    text-decoration: none;
+    color:white;
+    font-weight:bold;
+}
+h1{
+    text-align: center;
+    font-size: 1cm;
+    padding-top: 70px;
+}
+p{
+    text-align: center;
+    font-size: 0.5cm;
+    padding-right: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="time"],
+input[type="number"],
+input[type="datetime-local"],
+input[type="submit"]
+{
+    width:40%;
+    padding:7px;
+    border: 2px solid rgba(148, 104, 104, 0.178);
+    border-radius: 5px;
+    margin:10px;
+}
+input[type="submit"]{
+    text-align: center;
+    background-color:beige;
+    color:hotpink;
+    padding:12px 20px;
+    border:none;
+    cursor:pointer;
+    width:50%;
+    font-size: 0.7cm;
+    font-weight: bolder;
+}
+input[type="submit"]:hover{
+    background-color:yellow;
+}
