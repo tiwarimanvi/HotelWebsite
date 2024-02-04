@@ -1,10 +1,10 @@
-# The Imperial Spice Restraunt Website
+# The Imperial Spice Restaurant Website
 
-Welcome to The Imperial Spice Restraunt! This README provides an overview of the structure and features of our restraunt website, built using HTML and CSS.
+Welcome to The Imperial Spice Restraunt! This README provides an overview of the structure and features of our restaurant  website, built using HTML and CSS.
 
 ## Overview
 
-The Imperial Spice is a luxurious hotel offering world-class amenities and exceptional hospitality. Our website is designed to provide users with information about our restraunt, its facilities, services, and booking options.
+The Imperial Spice is a luxurious hotel offering world-class amenities and exceptional hospitality. Our website is designed to provide users with information about our restaurant , its facilities, services, and booking options.
 
 
 ## Technologies Used
